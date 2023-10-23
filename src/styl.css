@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    display: grid;
+    font-family: sans-serif;
+    background-color: #fff;
+}
+.nav-bar-icon{
+    height: 50px;
+}
+.nav-bar-icon img{
+    width: 20%;
+}
+.nav-bar-menu{
+    display: flex;
+    font-size: 16px;
+    font-weight: 400;
+}
+.image-carrouselle{
+    height: 635px;
+}
+.headings{
+    font-size: 60px;
+    line-height: 72px;
+    font-weight: 100;
+}
